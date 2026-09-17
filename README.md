@@ -2,8 +2,12 @@
 
 ### Frontend Developer | React.js | Next.js | TypeScript
 
-I’m a Frontend Developer focused on building modern, responsive,
-and scalable web applications with clean and maintainable code.
+## 👨‍💻 About Me
+
+Frontend Developer specializing in **React.js, Next.js, and TypeScript**, focused on building modern, scalable, and high-performance web applications.
+Passionate about **clean architecture, reusable components, responsive design, and exceptional user experiences**.
+Always learning, solving complex problems, and turning ideas into **reliable, production-ready solutions**.
+
 
 ---
 
