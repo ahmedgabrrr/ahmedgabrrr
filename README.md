@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmed
+<p align="center"># 👋 Hi, I'm Ahmed</p>
 
 ### Frontend Developer | React.js | Next.js | TypeScript
 
