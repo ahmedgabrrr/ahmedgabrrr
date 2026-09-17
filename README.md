@@ -1,6 +1,6 @@
-<h1 align="center"># 👋 Hi, I'm Ahmed</h1>
+<h1 align="center">👋 Hi, I'm Ahmed</h1>
 
-### Frontend Developer | React.js | Next.js | TypeScript
+<p align="center">Frontend Developer | React.js | Next.js | TypeScript</p>
 
 ## 👨‍💻 About Me
 
