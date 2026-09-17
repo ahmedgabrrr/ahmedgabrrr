@@ -8,7 +8,7 @@ Frontend Developer with +2 years of experience, focused on building modern, scal
 Passionate about **clean architecture, reusable components, responsive design, and exceptional user experiences**.
 Always learning, solving complex problems, and turning ideas into **reliable, production-ready solutions**.
 
-I'm particularly interested in Microfrontends, Monorepos, clean architecture, reusable components, and scalable frontend systems.
+I'm particularly interested in Microfrontends, Monorepos and scalable frontend systems.
 
 
 ---
