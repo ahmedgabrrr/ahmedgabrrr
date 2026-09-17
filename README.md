@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-Frontend Developer specializing in **React.js, Next.js, and TypeScript**, focused on building modern, scalable, and high-performance web applications.
+Frontend Developer with +2 years of experience, focused on building modern, scalable, and high-performance web applications.
 Passionate about **clean architecture, reusable components, responsive design, and exceptional user experiences**.
 Always learning, solving complex problems, and turning ideas into **reliable, production-ready solutions**.
 
